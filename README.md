@@ -32,17 +32,17 @@
   <h1>💻Algoritmos I</h1>
   <p> Aqui temos <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I">o primeiro componente MI</a> do curso, onde fui apresentado a linguagem de programação python, além de conceitos de lógica de programação. Foram 3 PBL envolvendo a linguagem, onde sua dificuldade aumentava progressivamente.</p>
   
-  <p> O primeiro problema envolvia somente operadores básicos, laços de repetição e condicionais. Já no segundo PBL foi possível utilizar funções, listas, matrizes e leitura/escrita em arquivos. Por fim no terceiro PBL foi permitido o uso de classes e objetos, aquivos binários e o uso de bibliotecas.</p>
+  <p> O primeiro problema envolvia somente operadores básicos, laços de repetição e condicionais. Já no segundo PBL foi possível utilizar funções, listas, matrizes e leitura em arquivos. Por fim no terceiro PBL foi permitido o uso de classes e objetos, aquivos binários e o uso de bibliotecas.</p>
 </div>
 
 <div id="problema11">
   <h1>1️⃣Problema 1</h1>
-	<p><a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I">Este PBL</a> trata-se de um software básico para a contabilização do gasto/cosumo de energia na Universidade Estadual de Feira de Santana, com base em alguns equipamentos já pré-estabelecidos. O valor também leva em conta a soma dos impostos descritos na conta de iluminação. Para mais detalhes, basta consultar o arquivo PDF dentro da pasta onde encontra-se a descrição da solução requisitada.</p>
+	<p><a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I/Problema_1">Este PBL</a> trata-se de um software básico para a contabilização do gasto/cosumo de energia na Universidade Estadual de Feira de Santana, com base em alguns equipamentos já pré-estabelecidos. O valor também leva em conta a soma dos impostos descritos na conta de iluminação. Para mais detalhes, basta consultar o arquivo PDF dentro da pasta onde encontra-se a descrição da solução requisitada.</p>
 </div>
 
 <div id="problema12">
   <h1>2️⃣Problema 2</h1>
-	<p></p>
+	<p>Por outro lado temos o <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I/Problema_2">segundo PBL</a>, neste foi solicitado um software que respondesse alguns requisitos para o censo demográfico do IBGE. O software era alimentado com aquivos .txt, oriundo de planilhas .csv, que por sua vez tinha quer ter essas entradas tratadas para serem usudas durante a execução do programa. Para mais detalhes, basta consultar o arquivo PDF dentro da pasta onde encontra-se a descrição da solução requisitada. </p>
 </div>
 
 <div id="problema13">
