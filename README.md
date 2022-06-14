@@ -6,7 +6,7 @@
 
 <p>Mas antes de começarmos, o que seria esse "PBL" que tanto cito? Para quem não conhece, Problem Based Learning (PBL) é, como o próprio nome diz, a construção do conhecimento a partir da discussão em grupo de um problema. Essa metodologia quebrou o paradigma de aula tradicional, com disciplinas curriculares distanciadas umas das outras e o controle de presença e provas: Nela, o aluno estuda individualmente sobre determinado assunto antes da aula, e anota todas as suas dúvidas ou dificuldades. Na aula, acontecem discussões sobre os problemas apresentados, realizadas em grupos.</p>
 
-<p>No nosso ambiente universitário existe um componente curricular MI, que implementa a metodologia PBL, para cada semestre. Onde somos desafiados a implementar soluções tecnologicas e fortalecendo assim nossa capacidade autodidata</p>
+<p>No nosso ambiente universitário existe um componente curricular MI, que faz o uso da metodologia PBL, para cada semestre. Onde somos desafiados a implementar soluções tecnológicas e fortalecendo assim nossa capacidade autodidata</p>
 
 ##
 <h1 align="center"> Sumário </h1>
