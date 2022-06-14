@@ -37,28 +37,35 @@
 
 <div id="problema11">
   <h1>1️⃣Problema 1</h1>
+	<p><a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I">Este PBL</a> trata-se de um software básico para a contabilização do gasto/cosumo de energia na Universidade Estadual de Feira de Santana, com base em alguns equipamentos já pré-estabelecidos. O valor também leva em conta a soma dos impostos descritos na conta de iluminação. Para mais detalhes, basta consultar o arquivo PDF dentro da pasta onde encontra-se a descrição da solução requisitada.</p>
 </div>
 
 <div id="problema12">
   <h1>2️⃣Problema 2</h1>
+	<p></p>
 </div>
 
 <div id="problema13">
  <h1>3️⃣Problema 3</h1>
+	<p></p>
 </div>
 
 <div id="alg&prog">
   <h1>💻Algoritmos & Programação</h1>
+	<p></p>
 </div>
 
 <div id="problema21">
  <h1>1️⃣Problema 1</h1>
+	<p></p>
 </div>
 
 <div id="problema22">
   <h1>2️⃣Problema 2</h1>
+	<p></p>
 </div>
 
 <div id="problema23">
   <h1>3️⃣Problema 3</h1>
+	<p></p>
 </div>
