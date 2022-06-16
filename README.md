@@ -47,7 +47,7 @@
 
 <div id="problema13">
  <h1>3️⃣Problema 3</h1>
-	<p></p>
+	<p>Para finalizar o primeiro semestre do curso, temos o <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I/Problema_3">terceiro PBL</a>. Refere-se a um jogo de cartas para dois jogadores, os detalhes como o jogo em si funciona e todas suas regras estão descritas no documento pdf do mesmo diretório.O software é alimentado com um arquivo ".txt" que contém todos as cartas que serão utilizadas no jogo, o programa trata essas entradas e estabelce toda a lógica para o funcionamento desse game. Além disso o código conta com o registro de usuário que já jogaram e quantas vezes ganharam e perderam o game.</p>
 </div>
 
 <div id="alg&prog">
