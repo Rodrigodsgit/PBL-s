@@ -52,7 +52,8 @@
 
 <div id="alg&prog">
   <h1>💻Algoritmos & Programação</h1>
-	<p>Início do segundo semestre, <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao">Mi de Algoritmos e Programação</a>, e com isso novos cenários com uma nova linguagem. Java percorreu o desenvolvimento de todos os 3 PBL deste semestre. Ela foi deverás importante para o aprendizado mais profundo sobre estruturas de dados. As soluções tecnológicas construidas neste semestre permeiam entre listas encadeadas, arvóres e grafos, sendo todos eles desenvolvidos e não utilizados por meio de bibliotecas.</p>
+	<p>Início do segundo semestre, <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao">Mi de Algoritmos e Programação</a>, e com isso novos cenários com uma nova linguagem. Java percorreu o desenvolvimento de todos os 3 PBL deste semestre.</p>
+	<p>Ela foi deverás importante para o aprendizado mais profundo sobre estruturas de dados. As soluções tecnológicas construidas neste semestre permeiam entre listas encadeadas, arvóres e grafos, sendo todos eles desenvolvidos e não utilizados por meio de bibliotecas.</p>
 </div>
 
 <div id="problema21">
