@@ -59,7 +59,7 @@
 <div id="problema21">
  <h1>1️⃣Problema 1</h1>
 	<p>Um novo mundo se inicia com a mudança de python para java, e <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao/Problema_1"> neste PBL</a> é aprendi de fato como as estruturas de dados são organizadas, afinal o python levemente mascara essas filosofias. O software a ser desenvolvido aqui se trata de um sistema de para Unidades de Pronto Atendimento (UPA), no qual 3 principais usuário fazem a usabilidade, sendo eles: Recepcionista, Médico e Paciente.</p>
-	<p></p>
+	<p>O programa obedece todos os requisitos solicitados, implementando o devido relacionamento entre todas as classes do sistema, que pode ser melhor visto no <a href="https://github.com/Rodrigodsgit/PBL-s/blob/main/MI_Algoritmos%26Programacao/Problema_1/Diagrama%20de%20classe%20UML.pdf "> diagrama de classes UML.</a> Utilizando os conceitos de POO, listas encadeadas e FIFO foi possivel desenvolver a solução solicitada. Infortunadamente não foi possível manter o acesso ao documento que detalhava o produto a ser desenvolvido, contudo foi feito um <a href="https://github.com/Rodrigodsgit/PBL-s/blob/main/MI_Algoritmos%26Programacao/Problema_1/Diagrama%20de%20classe%20UML.pdf"> JavaDoc</a> bem detalhado que com certeza irá auxiliar bastante o entendimento do software elaborado.</p>
 </div>
 
 <div id="problema22">
