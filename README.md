@@ -65,7 +65,7 @@
 
 <div id="problema22">
   <h1>2️⃣Problema 2</h1>
-	<p></p>
+	<p>O segundo problema se trata de um sistema bibliotecário, o qual tem em si uma catalogação de livros e autores. Nele é possível solicitar empréstimo de um ou vários livros, se estes estiverem disponíveis, além de consultar todos os dados disponíveis e efetuar as devidas devoluções.</p>
 </div>
 
 <div id="problema23">
