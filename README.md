@@ -29,7 +29,7 @@
 </div>
 
 <div id="algI">
-  <h1>💻Algoritmos I</h1>
+  <h1>🐍Algoritmos I</h1>
   <p> Aqui temos <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos_I">o primeiro componente MI</a> do curso, onde fui apresentado a linguagem de programação python, além de conceitos de lógica de programação. Foram 3 PBL envolvendo a linguagem, onde sua dificuldade aumentava progressivamente.</p>
   
   <p> O primeiro problema envolvia somente operadores básicos, laços de repetição e condicionais. Já no segundo PBL foi possível utilizar funções, listas, matrizes e leitura em arquivos. Por fim no terceiro PBL foi permitido o uso de classes e objetos, aquivos binários e o uso de bibliotecas.</p>
@@ -51,7 +51,7 @@
 </div>
 
 <div id="alg&prog">
-  <h1>💻Algoritmos & Programação</h1>
+  <h1>☕Algoritmos & Programação</h1>
 	<p>Início do segundo semestre, <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao">Mi de Algoritmos e Programação</a>, e com isso novos cenários com uma nova linguagem. Java percorreu o desenvolvimento de todos os 3 PBL deste semestre.</p>
 	<p>Ela foi deverás importante para o aprendizado mais profundo sobre estruturas de dados. As soluções tecnológicas construidas neste semestre permeiam entre listas encadeadas, arvóres e grafos, sendo todos eles desenvolvidos e não utilizados por meio de bibliotecas.</p>
 </div>
@@ -65,7 +65,7 @@
 
 <div id="problema22">
   <h1>2️⃣Problema 2</h1>
-	<p></p>
+	<p><a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao/Problema_2"> O segundo problema</a> se trata de um sistema bibliotecário, o qual tem em si uma catalogação de livros e autores. Nele é possível solicitar empréstimo de um ou vários livros, se estes estiverem disponíveis, além de consultar todos os dados disponíveis e efetuar as devidas devoluções. O software é alimentado com dados de um arquivo de texto e a para a organização estrutural desses dados foi implementa uma arvóre AVL.</p>
 </div>
 
 <div id="problema23">
