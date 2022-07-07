@@ -70,5 +70,5 @@
 
 <div id="problema23">
   <h1>3️⃣Problema 3</h1>
-	<p>E por último, mas não menos importante, temos o <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao/Problema_3"> terceito problema</a>. Este problema se tratava de um sistema de correlação entre computadores e roteadores utilizando a estrutura de grafos.</p>
+	<p>E por último, mas não menos importante, temos o <a href="https://github.com/Rodrigodsgit/PBL-s/tree/main/MI_Algoritmos%26Programacao/Problema_3"> terceito problema</a>. Este problema se tratava de um sistema de correlação entre computadores e roteadores utilizando a estrutura de grafos. O grafo conta com sub-classes referentes aos vertices e arestas contidos nele além de permitir as devidas alterações, adições e remoções dos elementos.</p>
 </div>
